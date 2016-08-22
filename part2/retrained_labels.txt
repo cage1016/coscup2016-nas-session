@@ -1,0 +1,4 @@
+portrait
+wildlife
+landscape
+folk
