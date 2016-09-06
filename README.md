@@ -48,3 +48,8 @@ $ docker run -d --name tensorflow-demo -p 8888:8888 -v $(pwd):/notebooks/coscup 
   - 4000 times retrain iterator
   - 13,685 images from Flickr photos
   - labels: Imagenet 11 categories, Agaric/bolete/buckeye, horse chestnut, conker/coral fungus/ear, spike, capitulum/earthstar/gyromitra/hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa/peanut/stinkhorn, carrion fungus/toilet tissue, toilet paper, bathroom tissue + peanut
+
+### imagetnet-1000
+  - 80.8% finally test accuracy
+  - 4000 times retrain iterator
+  - [imagenet 1000 lables](imagenet-1000/cls-loc-labels.txt)
